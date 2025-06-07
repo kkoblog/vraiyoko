@@ -20,23 +20,19 @@ const mainImages = [
   '/images/7.png',
   '/images/8.png',
   '/images/9.png',
-  '/images/10.png',
-  '/images/11.png',
 ];
 
 // 下部に表示する画像のパス（仮に全てcta.pngで揃えます。必要に応じて変更してください）
 const bottomImages = [
-  '/images/cta2.png', // 1枚目
-  '/images/cta2.png', // 2枚目
-  '/images/cta2.png', // 3枚目
-  '/images/cta2.png', // 4枚目
-  '/images/cta2.png', // 5枚目
-  '/images/cta2.png', // 6枚目
-  '/images/cta2.png', // 7枚目
-  '/images/cta2.png', // 8枚目
-  '/images/cta2.png', // 9枚目
-  '/images/cta2.png', // 10枚目
-  '/images/cta2.png', // 11枚目
+  '/images/ctacta.png', // 1枚目
+  '/images/ctacta.png', // 2枚目
+  '/images/ctacta.png', // 3枚目
+  '/images/ctacta.png', // 4枚目
+  '/images/ctacta.png', // 5枚目
+  '/images/ctacta.png', // 6枚目
+  '/images/ctacta.png', // 7枚目
+  '/images/ctacta.png', // 8枚目
+  '/images/ctacta.png', // 9枚目
 ];
 
 // 公式LINEのURL
